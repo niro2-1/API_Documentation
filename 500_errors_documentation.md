@@ -1,3 +1,4 @@
 - Fix to use basename of redirect path to avoid 500 error in NalaGinrut/artanis.
 - Added error handling feature due to HTTP 500 error on the NSO server in makhgal-ganbold/NSO1212.
 - Encountered a 500 error on metrics/overview in Khushijangra/NEXUS-ATMS.
+- Updated documentation for clarity.
