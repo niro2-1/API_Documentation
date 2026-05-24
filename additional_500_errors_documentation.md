@@ -1,0 +1,2 @@
+- 500 error encountered during login process in WithinSecurity.
+- 500 error noted in response handling for automated checking of CRAN in makhgal-ganbold/NSO1212.
